@@ -9,8 +9,7 @@
 title: Sally McAllister
 email: smcallister4288@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Hi there, my name is Sally. I make art, every day. You can see some of
-  my creations here. Enjoy!
+  Sally McAllister, artist
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://mcsallister.github.io" # the base hostname & protocol for your site
 twitter_username: jekyllrb
